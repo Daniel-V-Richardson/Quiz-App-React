@@ -1,0 +1,29 @@
+
+
+[
+  {
+    "title": "What is the missing letter in this series? b  e  h  k  n  ?  t",
+    "options": ["q", "r", "s", "u"],
+    "correctOptionIndex": "0"
+  },
+  {
+    "title": "The average age of a group of 5 students was 10. The average age increased by 4 years when 2 new students joined the group. What is the average age of the two new students who joined the group?",
+    "options": ["15", "20", "22", "24"],
+    "correctOptionIndex": "3"
+  },
+  {
+    "title": "If you unscramble the letters YKANE, you will get the name of a:",
+    "options": ["Mountain Pass", "Warrior", "Flower", "Country"],
+    "correctOptionIndex": "3"
+  },
+  {
+    "title": "3 is 80% of what number?",
+    "options": ["2.50", "3.00", "3.75", "3.50"],
+    "correctOptionIndex": "2"
+  },
+  {
+    "title": "There are twenty four students in a certain class. For every nine girls there are three boys. How many girls and how many boys are there in the class?",
+    "options": ["19 and 5", "18 and 6", "15 and 9", "14 and 10"],
+    "correctOptionIndex": "1"
+  }
+]
